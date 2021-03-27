@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Cjezbasharp\bin\Debug\Cjezbasharp.exe.config
+C:\Users\User\source\repos\Cjezbasharp\bin\Debug\Cjezbasharp.exe
+C:\Users\User\source\repos\Cjezbasharp\bin\Debug\Cjezbasharp.pdb
+C:\Users\User\source\repos\Cjezbasharp\obj\Debug\Cjezbasharp.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Cjezbasharp\obj\Debug\Cjezbasharp.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Cjezbasharp\obj\Debug\Cjezbasharp.exe
+C:\Users\User\source\repos\Cjezbasharp\obj\Debug\Cjezbasharp.pdb
